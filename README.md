@@ -41,6 +41,12 @@ TARGET_PREBUILT_LAWNCHAIR_LAUNCHER := true
 TARGET_DEFAULT_PIXEL_LAUNCHER := true
 ```
 
+### BCR
+
+```
+TARGET_PREBUILT_BCR := true
+```
+
 ## Configs
 
 - [TouchScreen and KeyHandler](https://github.com/ProjectEverest-Devices/android_device_oneplus_sm8350-common/commit/eb2e657793689ad2d438d26f1567759f2841a24c)
